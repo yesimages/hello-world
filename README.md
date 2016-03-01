@@ -1,3 +1,3 @@
 # hello-world
 exercise
-I like to do some exercises for this sample
+I like to do some exercises for this sample.
